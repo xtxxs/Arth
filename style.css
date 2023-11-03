@@ -13,6 +13,7 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   background-color: #000000;
   color: #fdfdff;
+  cursor: url(img/sa.png), auto;
 }
 
 .container {
